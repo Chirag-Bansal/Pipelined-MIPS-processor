@@ -1,0 +1,9 @@
+add 5 2 3 1
+sub 6 4 1 1
+bne 5 6 2 1
+add 7 1 2 1
+add 8 3 2 1
+add 9 1 2 1
+bne 8 9 1 1
+sub 11 3 4 1
+mult 12 4 5 1
